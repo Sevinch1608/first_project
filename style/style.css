@@ -270,6 +270,9 @@ h2 {
   font-size: 16px;
   line-height: 100%;
 }
+a:hover{
+  opacity: 0.7;
+}
 
 .footer-section ul li {
   margin-top: 24px;
